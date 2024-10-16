@@ -1,8 +1,8 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=38&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines= Hey..+I'm+Abdulla+Al+Noman;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Abdulla+Al+Noman;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
-<div align="center">
+
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/noman2863/">
@@ -11,7 +11,7 @@
 <a href="https://github.com/DisneyCoder/DisneyCoder" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
-</div>
+
 </div>
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p> As a software engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
