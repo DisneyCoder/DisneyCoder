@@ -3,7 +3,7 @@
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
-## 🌐 Connect with Me
+<h2 align="center" > ## 🌐 Connect with Me </h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/noman2863/">
