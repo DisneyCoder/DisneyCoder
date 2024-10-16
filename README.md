@@ -1,9 +1,10 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Abdulla+Al+Noman;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=735&lines=Hey..+I'm+Abdulla+Al+Noman;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
-
+<div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+</div>
 <div align="center">
   <a href="https://www.linkedin.com/in/noman2863/">
     <img src="https://img.shields.io/badge/DisneyCoder-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
