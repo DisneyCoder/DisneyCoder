@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=4000&color=33FF33&center=true&vCenter=true&width=535&lines=Hey..+I'm+Abdulla+Al+Noman;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=37&duration=4000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Abdulla+Al+Noman;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 <div align="center">
@@ -18,8 +18,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/PowerShell-0A0A0A?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/PHP-5391FE?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </div>
 <h2 align="center" class="section-heading">🔧 Frameworks</h2>
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
@@ -31,24 +31,8 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Laravel-7952B3?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Laravel-F05032?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 </div>
-
-<h2 align="center" class="section-heading">👾 3D Modeling + VR + AR</h2>
-<p>In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Reality (AR), I apply my expertise to bring digital creations to life. Leveraging industry-leading tools, I sculpt, render, and animate with precision, while pioneering VR and AR experiences that bridge the gap between virtuality and reality.</p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/3DS_Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="3DS Max"/>
-  <img src="https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya"/>
-  <img src="https://img.shields.io/badge/Rhino-801010?style=for-the-badge&logo=rhinoceros&logoColor=white" alt="Rhino"/>
-  <img src="https://img.shields.io/badge/MeshLab-FF4000?style=for-the-badge" alt="MeshLab"/>
-  <img src="https://img.shields.io/badge/ZBrush-5491F1?style=for-the-badge" alt="ZBrush"/>
-  <img src="https://img.shields.io/badge/Revit-FF9E0B?style=for-the-badge&logo=autodesk&logoColor=white" alt="Revit"/>
-  <img src="https://img.shields.io/badge/ArchiCAD-0081CF?style=for-the-badge" alt="ArchiCAD"/>
-  <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white" alt="Oculus"/>
-</div>
-
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
