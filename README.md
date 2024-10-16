@@ -6,11 +6,14 @@
 <h2 align="center" >  🌐 Connect with Me </h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/noman2863/">
+  <a href="https://www.linkedin.com/in/nomanabdulla/">
     <img src="https://img.shields.io/badge/AlNoman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <a href="https://github.com/DisneyCoder/DisneyCoder" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+</a>
+<a href="https://x.com/aanoman2863" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on%20X-%230077B5.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 
 </div>
