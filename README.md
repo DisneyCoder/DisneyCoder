@@ -6,8 +6,8 @@
 <h2 align="center" >  🌐 Connect with Me </h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nomanabdulla/">
-    <img src="https://img.shields.io/badge/AlNoman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/nomanabdulla/" target="_blank">
+    <img src="https://img.shields.io/badge/Connet%20on%20LinkedIn-%0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <a href="https://github.com/DisneyCoder/DisneyCoder" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
