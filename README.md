@@ -13,10 +13,6 @@
   <a href="https://www.linkedin.com/in/nomanabdulla/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-  <a href="https://github.com/DisneyCoder/DisneyCoder" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-  </a>
   
   <a href="https://x.com/aanoman2863" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20X-%230077B5.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X"/>
