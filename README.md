@@ -10,7 +10,7 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nomanabdulla/" target="_blank">
+  <a href="https://www.linkedin.com/in/nomanabdulla4321/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
